@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sample",
+  "version": "1.0.0",
+  "description": "sample nodejs project for keep template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherafatian/nodejs-sample.git"
+  },
+  "author": "Meysam Sherafatian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherafatian/nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/sherafatian/nodejs-sample#readme"
+}
